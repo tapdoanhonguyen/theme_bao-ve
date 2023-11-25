@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plan>
+  <id>6</id>
+  <lang></lang>
+  <title>Dịch vụ mới</title>
+  <form>sequential</form>
+  <width>250</width>
+  <height>50</height>
+  <banners>
+    <banners_item>
+      <id>9</id>
+      <title>1</title>
+      <clid>1</clid>
+      <file_name>ndspro.png</file_name>
+      <imageforswf></imageforswf>
+      <file_ext>png</file_ext>
+      <file_mime>image/png</file_mime>
+      <file_width>250</file_width>
+      <file_height>400</file_height>
+      <file_alt></file_alt>
+      <file_click></file_click>
+      <target>_blank</target>
+      <bannerhtml></bannerhtml>
+      <publ_time>1583981387</publ_time>
+      <exp_time>0</exp_time>
+    </banners_item>
+  </banners>
+</plan>
